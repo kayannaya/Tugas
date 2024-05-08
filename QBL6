@@ -1,0 +1,7 @@
+printf("Enter your desired matrix : \n");
+
+    for(i = 0 ; i < 2 ; i++) {
+        for(j = 0 ; j < 2 ; j++){
+            scanf("%f", &A[i][j]);
+        }
+    }
